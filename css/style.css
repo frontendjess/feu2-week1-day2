@@ -1,0 +1,26 @@
+/* remember variables is always the 1st stylesheet you import
+   order of the imports matter
+*/
+.nav-logo {
+  height: 68px;
+  width: 68px;
+}
+
+.bg-dark {
+  background-color: #000 !important;
+}
+
+.hero {
+  width: 100vw;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.img-fluid {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+/*# sourceMappingURL=style.css.map */
